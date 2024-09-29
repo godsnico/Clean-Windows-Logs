@@ -1,2 +1,2 @@
 # Clean-Windows-Logs
-a simple tool in python for clean you windows logs!
+a simple tool in python for clean your basic windows logs!
